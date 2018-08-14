@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Spyder Blog</title>
   <id>urn:uuid:a1aeb560-1c3d-3d4a-bd0b-639353c820c3</id>
-  <updated>2018-08-13T00:00:00Z</updated>
+  <updated>2018-08-14T00:00:00Z</updated>
   <link href="https://www.spyder-ide.org/blog/" />
   <link href="https://www.spyder-ide.org/blog/feed.xml" rel="self" />
   <author>
@@ -10,9 +10,9 @@
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
   <entry xml:base="https://www.spyder-ide.org/blog/release-spyder-330/">
-    <title type="text">Spyder 3.3.0 and 3.3.1 Released: Modular, portable consoles; streamlined error reporting system; new features, usability improvements and more!</title>
+    <title type="text">Spyder 3.3.0 and 3.3.1 released!</title>
     <id>urn:uuid:175e550f-54d6-3128-8243-b6cbfe6174b0</id>
-    <updated>2018-08-13T00:00:00Z</updated>
+    <updated>2018-08-14T00:00:00Z</updated>
     <link href="https://www.spyder-ide.org/blog/release-spyder-330/" />
     <author>
       <name>camgerlach</name>
