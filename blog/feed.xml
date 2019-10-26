@@ -87,7 +87,7 @@ Explorer pane.&lt;/p&gt;
 &lt;h2 id=&quot;url-awareness&quot;&gt;URL Awareness&lt;/h2&gt;&lt;p&gt;Working with projects requires access to documentation, located within the
 computer as other files or links located over the internet. We will now
 include integration for URI detection within the editor so users can
-&lt;kbd&gt;Ctrl+Click&lt;/kbd&gt; on these items. This will work similarly as module
+&lt;code&gt;Ctrl+Click&lt;/code&gt; on these items. This will work similarly as module
 inspection works, but generalized to external and internal links.&lt;/p&gt;
 &lt;h2 id=&quot;git-version-control-enhancements&quot;&gt;Git version control enhancements&lt;/h2&gt;&lt;p&gt;The revision system of choice by our user base, including TDK, is Git.
 The purpose of this enhancement is to enable basic Git integration from
