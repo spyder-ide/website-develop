@@ -77,19 +77,19 @@ provides an &quot;empty project&quot; project type.&lt;/p&gt;
 &lt;li&gt;Define and implement the minimal aspects that should be extensible by a
 Project Type&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;file-associations&quot;&gt;File Associations&lt;/h3&gt;&lt;p&gt;Spyder currently supports opening files on the Project and File Explorer
+&lt;h2 id=&quot;file-associations&quot;&gt;File Associations&lt;/h2&gt;&lt;p&gt;Spyder currently supports opening files on the Project and File Explorer
 using the (default) Operating System defined applications. We will enhance
 this by adding &lt;strong&gt;Global&lt;/strong&gt; file associations as part of the &lt;strong&gt;Preferences&lt;/strong&gt;
 and Project Specific associations as part of the &lt;strong&gt;Project Preferences&lt;/strong&gt;.
 This will give users more power to select the tool or set of tools that they
 prefer to use for specific projects and tasks directly on the File and Project
 Explorer pane.&lt;/p&gt;
-&lt;h3 id=&quot;url-awareness&quot;&gt;URL Awareness&lt;/h3&gt;&lt;p&gt;Working with projects requires access to documentation, located within the
+&lt;h2 id=&quot;url-awareness&quot;&gt;URL Awareness&lt;/h2&gt;&lt;p&gt;Working with projects requires access to documentation, located within the
 computer as other files or links located over the internet. We will now
 include integration for URI detection within the editor so users can
 &lt;kbd&gt;Ctrl+Click&lt;/kbd&gt; on these items. This will work similarly as module
 inspection works, but generalized to external and internal links.&lt;/p&gt;
-&lt;h3 id=&quot;git-version-control-enhancements&quot;&gt;Git version control enhancements&lt;/h3&gt;&lt;p&gt;The revision system of choice by our user base, including TDK, is Git.
+&lt;h2 id=&quot;git-version-control-enhancements&quot;&gt;Git version control enhancements&lt;/h2&gt;&lt;p&gt;The revision system of choice by our user base, including TDK, is Git.
 The purpose of this enhancement is to enable basic Git integration from
 within the File and Project Explorer and to extend the current plugin
 API so context menus can be customized with specific Git features and
