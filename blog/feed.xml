@@ -15,7 +15,7 @@
     <updated>2019-11-28T20:00:00Z</updated>
     <link href="https://www.spyder-ide.org/blog/spyder-variable-explorer/" />
     <author>
-      <name>Dalthviz</name>
+      <name>dalthviz</name>
     </author>
     <content type="html">&lt;p&gt;&lt;em&gt;This blogpost was originally published on the &lt;a href=&quot;https://labs.quansight.org/blog/2019/11/variable-explorer-improvements-in-Spyder-4/&quot;&gt;Quansight Labs website&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.spyder-ide.org/&quot;&gt;Spyder&lt;/a&gt; 4 will be released very soon with lots of interesting new features that you'll want to check out, reflecting years of effort by the team to improve the user experience. In this post, we will be talking about the improvements made to the Variable Explorer.&lt;/p&gt;
